@@ -17,4 +17,5 @@ export class MyInfo extends Component {
   }
 }
 
+
 export default MyInfo;
